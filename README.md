@@ -1,4 +1,4 @@
-# Usefulness of each program
+# Usefulness of each file
 
 ## kresling.py
 
